@@ -1,31 +1,169 @@
+// 
+// // src/data/info.js
+// const info = {
+//   main: {
+//     name: "Ankitha C M",
+//     description:
+//       "I am a data analyst with expertise in machine learning. I have experience in extracting insights and building predictive models using various data analysis tools and machine learning frameworks. I thrive on tackling complex data challenges and continuously acquiring new skills. I am passionate about delivering high-quality, actionable insights that adhere to best practices and industry standards in data science.",
+//     role: "ASPIRING DATA ANALYST",
+//     photo: "../assets/Dp.jpg",
+//     email: "ankithanku2004@gmail.com",
+//   },
+
+//   resume: {
+//     link: "../assets/Ankitha C M_Resume.pdf",
+//   },
+
+//   socials: {
+//     github: " ",
+//     linkedin: " ",
+//     instagram: "https://www.instagram.com/_sanku_chandu?igsh=ZWo2anU2ZHljNGts",
+//   },
+
+//   skills: {
+//     languages: {
+//       description:
+//         "Proficient in Python, C, SQL, MATLAB, HTML, CSS, and Java.",
+//       image:
+//         "https://skillicons.dev/icons?i=py,c,mysql,matlab,html,css,java&perline=6",
+//     },
+//     frameworks: {
+//       description:
+//         "Experienced in React, Node.js, OpenCV, Flask, TensorFlow, and Sklearn.",
+//       image:
+//         "https://skillicons.dev/icons?i=react,nodejs,opencv,flask,tensorflow,sklearn&perline=6",
+//     },
+//     tools: {
+//       description:
+//         "Familiar with Android Studio, GitHub, MongoDB, Netlify, Vercel, Firebase, Docker, Debian, and Linux.",
+//       image:
+//         "https://skillicons.dev/icons?i=androidstudio,github,mongodb,netlify,vercel,firebase,docker,debian,linux&perline=6",
+//     },
+//   },
+
+//   projects: [
+//     {
+//       title: "Brain Tumor Detection",
+//       description:
+//         "A project to identify the presence, size, and location of brain tumors using medical imaging and computational techniques.",
+//     },
+//   ],
+
+//   education: [
+//     {
+//       school: "Taralabalu Jagadguru School",
+//       degree: "INTERMEDIATE",
+//       year: "2009 - 2010",
+//       image: "../assets/srii.jpg",
+//     },
+//   ],
+
+//   contact: {
+//     title: "Reach Out and Connect",
+//     description:
+//       "Thank you for your interest in connecting with me. Feel free to email me at ankithanku2004@gmail.com.",
+//   },
+
+//   footer: "© Ankitha C M. All Rights Reserved",
+// };
+
+// export default info;
+// src/data/info.js
+// const info = {
+//   main: {
+//     name: "Ankitha C M",
+//     description:
+//       "I am a data analyst with expertise in machine learning. I have experience in extracting insights and building predictive models using various data analysis tools and machine learning frameworks. I thrive on tackling complex data challenges and continuously acquiring new skills. I am passionate about delivering high-quality, actionable insights that adhere to best practices and industry standards in data science.",
+//     role: "ASPIRING DATA ANALYST",
+//     photo: "https://via.placeholder.com/150", // use your actual image later
+//     email: "ankithanku2004@gmail.com",
+//   },
+
+//   resume: {
+//     link: "https://example.com/Ankitha_Resume.pdf", // replace with real link
+//   },
+
+//   socials: {
+//     github: "",
+//     linkedin: "",
+//     instagram: "https://www.instagram.com/_sanku_chandu?igsh=ZWo2anU2ZHljNGts",
+//   },
+
+//   skills: {
+//     languages: {
+//       description:
+//         "Proficient in Python, C, SQL, MATLAB, HTML, CSS, and Java.",
+//       image:
+//         "https://skillicons.dev/icons?i=py,c,mysql,matlab,html,css,java&perline=6",
+//     },
+//     frameworks: {
+//       description:
+//         "Experienced in React, Node.js, OpenCV, Flask, TensorFlow, and Sklearn.",
+//       image:
+//         "https://skillicons.dev/icons?i=react,nodejs,opencv,flask,tensorflow,sklearn&perline=6",
+//     },
+//     tools: {
+//       description:
+//         "Familiar with Android Studio, GitHub, MongoDB, Netlify, Vercel, Firebase, Docker, Debian, and Linux.",
+//       image:
+//         "https://skillicons.dev/icons?i=androidstudio,github,mongodb,netlify,vercel,firebase,docker,debian,linux&perline=6",
+//     },
+//   },
+
+//   projects: [
+//     {
+//       title: "Brain Tumor Detection",
+//       description:
+//         "A project to identify the presence, size, and location of brain tumors using medical imaging and computational techniques.",
+//     },
+//   ],
+
+//   education: [
+//     {
+//       school: "Taralabalu Jagadguru School",
+//       degree: "INTERMEDIATE",
+//       year: "2009 - 2010",
+//     },
+//   ],
+
+//   contact: {
+//     title: "Reach Out and Connect",
+//     description:
+//       "Thank you for your interest in connecting with me. Feel free to email me at ankithanku2004@gmail.com.",
+//   },
+
+//   footer: "© Ankitha C M. All Rights Reserved",
+// };
+
+// export default info;
 const info = {
     main: {
-        name: "BITRA PAVAN KUMAR",
+        name: "Ankitha C M",
         description: "I am a data analyst with expertise in machine learning. I have experience in extracting insights and building predictive models using various data analysis tools and machine learning frameworks. I thrive on tackling complex data challenges and continuously acquiring new skills. I am passionate about delivering high-quality, actionable insights that adhere to best practices and industry standards in data science",
         role: "ASPIRING DATA ANALYST",
         photo: "../Dp.jpg",
-        email: "bitrasrinivaspavan@gmail.com",
+        email: "ankithanku2004@gmail.com",
         tracking_id: "G-BNTTBGHXSC"
     },
     resume: {
-        link: "../Pavan_Kumar_Bitra_Resume.pdf" // Replace with your actual resume URL
+        link: "../Ankitha_C_M_resume.html" // Replace with your actual resume URL
       },
     
 
     socials: {
-        twitter: "https://x.com/srinivaspavan73",
-		github: "https://github.com/srinivaspavan73",
-		linkedin: "https://www.linkedin.com/in/bitrapavankumar",
-		instagram: "https://instagram.com/srinivaspavan73",
-		facebook: "https://www.facebook.com/bitra.pavan.351",
-        telegram: "https://telegram.me/srinivaspavan73"
+        twitter: "",
+		github: "https://github.com/Ankitha2004-git",
+		linkedin: "https://www.linkedin.com/in/ankitha-c-m-736b2523a/",
+		instagram: "https://www.instagram.com/_sanku_chandu?igsh=ZWo2anU2ZHljNGts",
+		facebook: "",
+        telegram: "",
     },
     experience: [
         {
-            company: "Innovarsity",
+            company: "",
             role: "",
-            description: "Designed and developed two responsive, dynamic websites using React.js and Bootstrap. Implemented interactive features and user-centric designs, leading to a 30% increase in user traffic and improved engagement. Enhanced site performance, achieving faster load times by 20% through optimized code and responsive design practices.",
-            period: "July 2024- Present"
+            description: "",
+            period: ""
         },
         {
             company: "GoPrac Private Limited",
@@ -40,105 +178,63 @@ const info = {
             description:"Contributed to the security and reliability of blockchain projects by auditing smart contracts and developing comprehensive test cases. Enhanced the security posture of multiple projects by identifying vulnerabilities and ensuring compliance with best practices. Gained hands-on experience in blockchain security, improving the robustness of smart contracts and reducing potential risks through meticulous analysis and testing.",
             // description: "Contributed to the security of blockchain projects at Entersoft by auditing smart contracts and writing comprehensive test cases. Acquired valuable hands-on experience in a vital, emerging field of cybersecurity, enhancing project security and reliability through meticulous analysis and testing.",
             period: "November 2023- December 2023"
-        },
-        
-        {
-            company: "EduSkills",
-            role: "AWS Clould Intern",
-            description: "Engaged in a cloud computing internship using AWS, mastering the deployment, scaling, and management of cloud applications. Gained expertise in AWS services like EC2, S3, and RDS, applying best practices in cloud architecture and security to simulated business environments.",
-            period: "Sepetember 2023 - November 2023"
-        },
-        {
-            company: "EduSkills",
-            role: "AWS Cloud Intern",
-            description: "Advanced my skills in AWS Cloud technologies through a comprehensive virtual internship, focusing on developing scalable cloud solutions using Lambda, DynamoDB, and Elastic Beanstalk. Managed projects that emphasized workflow automation and robust security, enhancing cloud infrastructure resiliency.",
-            period: "June 2023 - November 2023"
-        },                
-        {
-            company: "EduSkills",
-            role: "Data Analyst Inten",
-            description: "Leveraged AWS technologies in a virtual data analytics internship, analyzing large datasets to drive insights and improve decision-making. Utilized machine learning models and AWS QuickSight for effective data visualization and reporting in collaborative projects.",
-            period: "May 2023 - July 2023"
         },        
-        {
-            company: "YHills Edutech Private Limited",
-            role: "Python Developer Intern",
-            description: "As a Python Developer Intern, I developed Python modules for machine learning algorithms and aggregated unstructured data from various sources to lay the groundwork for a new product. Additionally, I gained hands-on experience with data manipulation and analysis using NumPy and Pandas.",
-            period: "October 2022 - December 2022"
-        },                
         // More experiences...
     ],
 
     skills: {
         languages: {
-            description: "I possess proficient expertise in a diverse range of programming languages, including Python, C, SQL, MatLab, Html, CSS and Java.",
-            image: "https://skillicons.dev/icons?i=py,c,mysql,matlab,html,css,java&perline=6&theme="
+            description: "I possess proficient expertise in a diverse range of programming languages, including Python, C, SQL, Html, CSS and Java.",
+            image: "https://skillicons.dev/icons?i=py,c,mysql,html,css,java&perline=6&theme=.",
         },
         frameworks: {
-            description: "Experienced in a versatile tech stack, including React, Node.js, OpenCv, Flask, Tensorflow and SKlearn.",
-            image: "https://skillicons.dev/icons?i=react,nodejs,opencv,flask,tensorflow,sklearn&perline=6&theme="
+            description: "Experienced in a versatile  including React, Node.js, OpenCv, Flask, Tensorflow and SKlearn.",
+            image: "https://skillicons.dev/icons?i=react,nodejs,opencv,flask,tensorflow,sklearn&perline=6&theme.",
         },
         tools: {
             description: "I am well-versed in utilizing various tools and platforms to enhance the development process, including Android Studio, Github, MongoDB, Netlify, Vercel, Firebase, Docker, Debian, Linux",
-            image: "https://skillicons.dev/icons?i=androidstudio,github,mongodb,netlify,vercel,firebase,docker,debian,linux&perline=6&theme="
+            image: "https://skillicons.dev/icons?i=androidstudio,github,mongodb,netlify,vercel,firebase,docker,debian,linux&perline=6&theme.",
         },
     },
 
     projects: [
         {
-			title: "SecureAccess Advanced Multilayer Authentication",
-			description: "A cutting-edge authentication platform that enhances security through facial and gesture recognition technologies.",
-			technologies: "https://skillicons.dev/icons?i=react,opencv,flask,tensorflow&perline=5&theme=",
-			github: "https://github.com/srinivaspavan73/Secure-Access",
-            // link: "https://letterdigitshape-classification.netlify.app/"
+			title: "Email Spam detection ",
+			description: " Involves training a model to automatically classify incoming emails as either \"spam\" or \"ham\" (legitimate) by analyzing their content and metadata.",
+			technologies: "https://miro.medium.com/1*nJBoaZeS-ylfwtSq4vnVTA.png",
+			github: "",
 		},
 
 		{
-			title: "LandLink",
-			description: "Revolutionizing land transactions with an online marketplace for buying and selling land properties across all states seamlessly.",
-			technologies: "https://skillicons.dev/icons?i=react,firebase,0,0,0&perline=10&theme=",
-			github: "https://github.com/srinivaspavan73/Landlink",
-            // link: "https://thechatroom.netlify.app/"
-		},
-
-		// {
-		// 	title: "Sudoku Solver",
-		// 	description: "Sudoku Solver is a web application that can generate or solve sudoku problems using simulated annealing, an optimization algorithm.",
-		// 	technologies: "https://skillicons.dev/icons?i=react,tailwindcss,ts,0,0&perline=5&theme=",
-		// 	// github: "https://github.com/dsbalico/sudoku-solver-using-simulated-annealing",
-        //     // link: "https://sudoku-solver-sa.netlify.app/"
-		// },
-
-		{
-			title: "WeaveQuest",
-			description: "A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.",
-			technologies: "https://skillicons.dev/icons?i=react,firebase,0,0,0&perline=5&theme=",
-			github: "https://github.com/srinivaspavan73/Weaver-s-Loom",
-            link: "https://weavers-loom.netlify.app/"
+			title: "Whatsapp Text Analysis",
+			description: "Involves using data extracted from chat exports to analyze communication patterns, identify trends, and gain insights into conversations.",
+			technologies: "https://img-c.udemycdn.com/course/750x422/4935698_bba0.jpg",
+			github: "",
+            // link: ""
 		},
     ],
 
     education: [
         {
-            school: "KKR and KSR INSTITUTE OF TECHNOLOGY & SCIENCES",
-            degree: "B.Tech in Data Science",
-            // year: "2021 - Present",
-            image: "kitslogo.jpg"
+            school: " Kalpataru Institute of Technology",
+            degree: "BE in Computer Science and Engineering",
+            // year: "2025 - Present",
+            image: "kit logo.jpeg"
         },
         // {
-        //     school: "sri gowthami junior college ",
+        //     school: "St Joseph's school and college",
         //     degree: "INTERMEDIATE",
-        //     year: "2019 - 2021",
-        //     image: "sgjclogo.png"
+        //     year: "2020 - 2022",
+        //     image: ""
         // },
     ],
 
     contact: {
         title: "Reach Out and Connect",
-        description: "Thank you for your interest in connecting with me. I welcome your feedback, questions, and suggestions. If you have a specific inquiry or comment, please feel free to email me directly at bitrasrinivaspavan@gmail.com. I strive to respond to all messages within 24 hours, but please allow a bit more time during busy periods. Alternatively, if you prefer to connect on social media, you can find me using the links provided below.",
+        description: "Thank you for your interest in connecting with me. I welcome your feedback, questions, and suggestions. If you have a specific inquiry or comment, please feel free to email me directly at ankithanku2004@gmail.com. I strive to respond to all messages within 24 hours, but please allow a bit more time during busy periods. Alternatively, if you prefer to connect on social media, you can find me using the links provided below.",
     },
 
-    footer: "© 2025 Bitra Pavan Kumar. All Rights Reserved"
+    footer: "© 2025 Ankitha C M. All Rights Reserved"
 }
 
 export default info
